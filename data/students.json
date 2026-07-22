@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1784695754284",
+    "name": "Charlie",
+    "email": "charlie@gmail.com",
+    "course": "ISE",
+    "grade": 100
+  },
+  {
+    "id": "1784696065301",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "course": "Math",
+    "grade": 95
+  }
+]
